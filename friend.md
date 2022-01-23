@@ -28,7 +28,7 @@ friend void Test();
 2.  
 class Person_1{  
 private:  
-string name;
+string name;  
 }  
 <br><br>
 class Person_2{  
